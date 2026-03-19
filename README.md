@@ -1,12 +1,18 @@
-# Projeto WEB - Domine Git e GitHub
+# Domine Git e GitHub
 
-Este projeto foi desenvolvido para a disciplina de Introdução à Ciência da Computação da UNIFAL-MG pelos alunos Davi Azarias e Vinicius Ribeiro. Nosso objetivo é criar um recurso educacional acessível e informativo para ajudar iniciantes a aprender sobre Git e GitHub, duas ferramentas essenciais no desenvolvimento de software moderno.
+Olá! 👋 Este projeto foi desenvolvido durante o 1º período para a disciplina de Introdução à Ciência da Computação (ICC).
 
-O site explora os fundamentos do Git e GitHub, proporcionando aos usuários uma compreensão clara de como utilizar essas ferramentas para versionamento de código e colaboração em projetos de software. O conteúdo inclui tutoriais passo a passo, exemplos práticos e melhores práticas para o uso efetivo dessas ferramentas.
+## 🚀 Sobre o Projeto
+Nosso objetivo foi criar um recurso educacional acessível e informativo para ajudar iniciantes a aprender sobre **Git e GitHub**, duas ferramentas fundamentais no desenvolvimento moderno de software. 
 
-# Tecnologias Utilizadas
+O site explora os fundamentos do versionamento de código, proporcionando aos usuários uma compreensão clara de como utilizar o Git para gerenciar projetos e colaborar com outros desenvolvedores. O conteúdo inclui definições teóricas, vídeo-tutoriais e melhores práticas.
 
-- HTML: Estruturação do conteúdo da web.
-- CSS: Estilização do site para uma melhor experiência do usuário
+Você pode conferir o site hospedado na Vercel:
+🔗 **[Acesse o nosso site: Domine Git e GitHub](https://domine-git-github.vercel.app/)**
 
-[Acesse o nosso site](https://domine-git-github.vercel.app/ "Acesse o nosso site")
+## 🛠️ Tecnologias Utilizadas
+- HTML
+- CSS
+
+## 🤝 Créditos
+Este projeto foi desenvolvido em colaboração com Davi Azarias.
